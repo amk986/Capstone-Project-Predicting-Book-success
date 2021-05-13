@@ -26,7 +26,7 @@ There are seperate notebooks for the EDA portion of the analysis and the various
     - Loading in json files: goodreads books, goodreads authors, goodreads genre, and goodreads series
     - Cleaning and creating feature variables
     - Plots and visualizations- patterns and trends found
-    - exporting clean dataframe into a csv file to run in Models.ipynb notebooks. (CSV file is also saved in repository)
+    - exporting clean dataframe into a csv file to run in Models.ipynb notebooks. (Code to save exported CSV file to drive is included in EDA notebook)
 2. Modeling 1.ipynb- Decision Tree Classification
 3. Modeling 2.ipynb- Support Vector Machine
 4. Modeling 3.ipynb - K-nearest Neighbors
