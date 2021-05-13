@@ -19,6 +19,8 @@ After collecting the data, and proceeding to explore and clean the dataset as mu
 ### Technologies
 Python3 required
 import packages specified in notebooks
+#### Please note: goodreads_books_series json file can not be uploaded into github. Please access the below link to download the book_series json file (Json file is located "Detailed Information on Book Series" section) :
+##### https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/books?authuser=0
 
 ### Installation
 There are seperate notebooks for the EDA portion of the analysis and the various Machine Learning models I utilized to achieve the best accuracy result. 
